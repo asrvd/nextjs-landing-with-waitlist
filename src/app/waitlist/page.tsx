@@ -11,7 +11,7 @@ export default function WaitlistPage() {
   return (
     <main className="flex flex-col min-h-screen min-w-screen font-sans justify-center items-center gap-24">
       <section
-        className="w-full flex flex-col justify-start items-center px-8 lg:px-32 min-h-screen gap-16"
+        className="w-full flex flex-col justify-center items-center px-8 lg:px-32 min-h-screen gap-16"
         id="features"
       >
         <motion.div
